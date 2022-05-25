@@ -19,8 +19,8 @@ Click [here](./Screenshot%202022-05-25%20at%2023-13-45%20Frontend%20Mentor%20QR%
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/inaveentata/QR-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution url](https://github.com/inaveentata/QR-code-component)
+- Live Site URL: [Live site url](https://qr-code-component-25-may-2022.netlify.app/)
 
 
 ### Built with
